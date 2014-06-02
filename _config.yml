@@ -1,0 +1,10 @@
+# Site settings
+title: Stuart Mackey
+email: stu.mackey@gmail.com
+description: "Personal site of Stuart Mackey"
+baseurl: ""
+url: "http://www.stuartmackey.co.uk"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
